@@ -2,7 +2,7 @@
 - 👀 I’m interested in teaching, statistics and data science 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on teaching data science at the high school 
-- 📫 How to reach me email 
+- 📫 How to reach me: email christine.miller@bush.edu
 
 <!---
 Christine-Miller/Christine-Miller is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
